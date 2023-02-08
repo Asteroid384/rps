@@ -1,4 +1,8 @@
 # RPS
+## Authors
+- Bob
+- Matt
+
 ## Summary
 rock paper scissors game
 
